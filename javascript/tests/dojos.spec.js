@@ -1,13 +1,13 @@
 import { expect } from "chai";
 
-import Kata from "../src/kata";
+import Sensei from "../src/sensei";
 
 describe("#Dojo", () => {
-  describe("Kata", () => {
+  describe("Sensei", () => {
     it("sensei should be Mariano", () => {
-      const kata = new Kata();
+      const sensei = new Sensei();
 
-      expect(kata.represent()).to.be.equal("Mariano");
+      expect(sensei.represent()).to.be.equal("Mariano");
     });
   });
 });
