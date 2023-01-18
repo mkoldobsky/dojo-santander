@@ -13,7 +13,8 @@
 ### Katas
 
 - 01-bank-account
-- 02-100-doors
-- 03-string-calculator
-- 04-minesweeper
-- 05-bowling-score
+- 02-payment-processor
+- 03-100-doors
+- 04-string-calculator
+- 05-minesweeper
+- 06-bowling-score
